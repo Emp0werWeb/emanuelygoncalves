@@ -14,9 +14,9 @@ Sou Analista de Sistemas em transição de carreira, com experiência em suporte
 ## 📂 Projetos
 - [Autoconhecimento](https://github.com/Emp0werWeb/modo-aprendizagem)
 - [Eneagrama](https://emp0werweb.github.io/Quizz-eneagrama)
-- [Projeto ONG - Apoiando Animais de Rua](https://ajuda-animal-frontend.vercel.app)
+- [Projeto ONG - Apoiando Animais de Rua](https://www.ajudaanimais.com.br)
 
 
 ## 📫 Contato
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seunome)
-- Email: seuemail@gmail.com
+- LinkedIn: [Seu LinkedIn](linkedin.com/in/emanuelyg)
+- Email: emanuellygoncalvesj@gmail.com
